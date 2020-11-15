@@ -1,2 +1,2 @@
-#daily-coding-challanges
-a collection of daily coding problems, neatly organized with solutions
+# daily-coding-challanges
+a collection of *daily* (hopefully?) coding problems, neatly organized with solutions
